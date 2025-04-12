@@ -57,5 +57,5 @@ View the live site here:
 
 ## 👩‍💻 Author
 
-Made with ❤️ by **Anish Laddha**  
+Made by **Anish Laddha**  
 [GitHub](https://github.com/anishh15)
